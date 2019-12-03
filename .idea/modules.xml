@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/recommender_data_process/recommender_data_process.iml" filepath="$PROJECT_DIR$/recommender_data_process/recommender_data_process.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recommender_online/recommender_online.iml" filepath="$PROJECT_DIR$/recommender_online/recommender_online.iml" />
+    </modules>
+  </component>
+</project>
